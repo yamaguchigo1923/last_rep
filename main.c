@@ -3,6 +3,7 @@
 #include <string.h>
 #include <stdbool.h>
 
+
 #define MAX_WORDS 1500   // リストに格納できる最大単語数
 #define MAX_WORD_LEN 50  // 単語の最大長さ
 
